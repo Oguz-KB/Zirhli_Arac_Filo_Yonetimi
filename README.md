@@ -29,3 +29,13 @@ Proje, modülerlik ve kolay genişletilebilirlik esas alınarak 3 ana katmanda k
 Projenin ana simülasyonunu çalıştırmak için terminalde şu komutu kullanabilirsiniz:
 ```bash
 python main.py
+```
+
+## 📋 Gereksinimler
+* Python 3.x ve üzeri (Ekstra bir kütüphane gerektirmez)
+
+## 🤝 Katkıda Bulunma
+Projeyi public'e aldıktan sonra, geliştirmelere katkı sağlamak isterseniz `Pull Request` (PR) gönderebilirsiniz. 
+
+## 📄 Lisans
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Dilediğiniz gibi kullanabilir ve geliştirebilirsiniz.
